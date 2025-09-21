@@ -35,7 +35,7 @@ This project is different: built in **Python, containers, and clusters — where
 - Designed for containerized environments (Proxmox, Docker, etc.).  
 - Optimized for CPU first, GPU optional.  
 - Output designed to be integrated with downstream LLMs or custom applications.  
-- Occasional system nags may read: *“Too much compute — please upgrade to enterprise.”*  
+- Occasional system nags may read: *“Too much compute — please fuck off or upgrade to enterprise.”*  
 
 ---
 
